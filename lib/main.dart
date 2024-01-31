@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sms_autofill_demo/screen_one.';
+import 'package:sms_autofill_demo/screen_one.dart';
 
 void main() {
   runApp(const MaterialApp(
